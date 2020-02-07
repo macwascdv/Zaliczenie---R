@@ -1,0 +1,56 @@
+demo
+5+5
+2-42
+a=24
+a**2
+options(promt="R> ")
+options(prompt="R> ")
+options(prompt="R> ")
+install.packages('rJava')
+install.packages("rJava")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+remotes
+library(remotes)
+install.packages("remotes")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+install.packages("libcurl4-openssl-dev"")
+e
+sf
+)
+""
+install.packages("libcurl4-openssl-dev")
+‘libcurl4-openssl-dev
+install.packages("libcurl4-openssl-dev")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+install.packages("XML")
+install.packages("XML")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+install.packages("units")
+install.packages("libudunits2-dev")
+install.packages("libudunits2-dev")
+install.packages("libudunits2-dev")
+install.packages("libudunits2-dev")
+install.packages("libudunits2")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+install.packages("rgdal")
+remotes::install_github("statisticspoland/R_Package_to_API_BDL")
+help(p = "bdl")
+summary(obiad)
+setwd("/home/makbet/ProjektR")
+library(xlsx)
+dane<-read.xlsx("ceny.xlsx", sheetIndex=2,stringsAsFactors=FALSE)
+dane<-data.frame(dane)
+dane$Wartosc<-as.numeric(dane$Wartosc)
+obiad<-tapply(dane$Wartosc,list(dane$Rok,dane$Nazwa),FUN=mean,na.rm=TRUE)
+obiad<-data.frame(obiad)
+setwd("/home/makbet/ProjektR")
+library(xlsx)
+install.packages("xlsx")
+install.packages("rJAva")
+install.packages("rJava")
+install.packages("rJava")
+install.packages("rJava")
